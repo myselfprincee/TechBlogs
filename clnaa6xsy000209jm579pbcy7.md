@@ -17,19 +17,19 @@ Hi, I know I know I am posting After 25 Days. I am really sorry. But, Now I am h
 
 ![](https://miro.medium.com/v2/resize:fit:1050/1*AAd050NRHtT-m9RqSk-ZGQ.png align="left")
 
-### *FREE PLAN INCLUDES 👇*
+***FREE PLAN INCLUDES 👇***
 
 * **<mark>4000</mark>** requests per hour.
     
-* **<mark>1,000</mark>** <mark> free project</mark> hours each month.
+* **<mark>1,000</mark>** <mark>free project</mark> hours each month.
     
-* <mark>A limit of </mark> **<mark>200MB</mark>** <mark> of disk space</mark> in the container. The contents of apps’s ‘/tmp’ directory don’t count towards that total. Those files are removed when the app restarts.
+* <mark>A limit of </mark> **<mark>200MB</mark>** <mark>of disk space</mark> in the container. The contents of apps’s ‘/tmp’ directory don’t count towards that total. Those files are removed when the app restarts.
     
-* There’s an <mark>additional </mark> **<mark>512MB</mark>** <mark> of assets storage space.</mark>
+* There’s an <mark>additional </mark> **<mark>512MB</mark>** <mark>of assets storage space.</mark>
     
-* Server OF **<mark>512MB</mark>** <mark> RAM.</mark>
+* Server OF **<mark>512MB</mark>** <mark>RAM.</mark>
     
-* A <mark>Separate </mark> **<mark>1GB</mark>** <mark> limit for node modules.</mark>
+* A <mark>Separate </mark> **<mark>1GB</mark>** <mark>limit for node modules.</mark>
     
 * The <mark>maximum file size</mark> per upload of **<mark>256MB</mark>**<mark>.</mark>
     
@@ -44,7 +44,7 @@ They Also Provide a Paid Plan Which Costs around **<mark>$8/month when Billed an
 
 ![](https://miro.medium.com/v2/resize:fit:1050/1*WeI9uwxUGAH7lTwUFABgKQ.png align="left")
 
-### ***FREE PLAN INCLUDES 👇***
+***FREE PLAN INCLUDES 👇***
 
 * **<mark>Custom Domains &amp; HTTPS</mark>**
     
@@ -52,7 +52,7 @@ They Also Provide a Paid Plan Which Costs around **<mark>$8/month when Billed an
     
 * **<mark>Unlimited</mark>** Projects
     
-* **<mark>3GB</mark>** <mark> Storage</mark> Included
+* **<mark>3GB</mark>** <mark>Storage</mark> Included
     
 * **<mark>250 Build Minutes &amp; 50GB Bandwidth</mark>**<mark>.</mark>
     
@@ -63,14 +63,15 @@ They Also Provide a Paid Plan Which Costs around **<mark>$8/month when Billed an
 
 ![If you are a Person who want to Build your own Startup. You can Apply to Linode Rise](https://miro.medium.com/v2/resize:fit:1050/1*hFDVU2Wd-dWEBt4Ccv8Pjw.png align="left")
 
-If you are a person who wants to Build your Startup. <mark> You can </mark> [**<mark>Apply to Linode Rise</mark>**](https://www.linode.com/linode-for-startups/)**<mark>.</mark>**
+If you are a person who wants to Build your Startup. <mark>You can </mark> [**<mark>Apply to Linode Rise</mark>**](https://www.linode.com/linode-for-startups/)**<mark>.</mark>**
 
 Linode is a great Platform where you can get much cheaper Prices. **<mark>You can see the Comparison </mark>** [**<mark>here</mark>**](https://www.linode.com/estimator/)**<mark>.</mark>** and It gives **<mark>FREE $100 Credits</mark>** for new users. Just you can add your Card They don’t charge you. You can try them and if you like you can Move on to other Providers.
 
-> ### **<mark>PROS :</mark>**
+> **<mark>PROS :</mark>**
 
 * **<mark>Affordable Pricing</mark>**<mark>:</mark> Linode is known for its **competitive pricing**, which makes it accessible to startups and individuals with limited budgets.
     
+
 * <mark>Linode provides virtual </mark> **<mark>machines</mark>** (Linode instances) that **are highly configurable, allowing you to tailor your cloud resources to match your specific needs.**
     
 * **<mark>Data Centers Worldwide:</mark>** Linode has data centers in multiple locations globally, enabling you to choose a data center that is geographically closer to your target audience for improved performance.
@@ -78,7 +79,7 @@ Linode is a great Platform where you can get much cheaper Prices. **<mark>You ca
 * **<mark>Scalability:</mark>** Linode allows for easy resource scaling, allowing you to adapt to changing demands as your project grows.
     
 
-> ### ***<mark>CONS :</mark>***
+> ***<mark>CONS :</mark>***
 
 1. Linode has a more **<mark>limited range of services</mark>**, **<mark>which may not be suitable for complex, multifaceted projects.</mark>**
     
@@ -101,7 +102,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 <mark>If you are a person who wants to Build your Startup. You can </mark> [**<mark>Apply to DigitalOcean Hatch</mark>**](https://www.digitalocean.com/hatch)**<mark>.</mark>**
 
-> ### <mark>PROS:</mark>
+> <mark>PROS:</mark>
 
 * **<mark>Affordable Pricing</mark>**<mark>:</mark> DigitalOcean is known for its competitive pricing, making it accessible for startups and developers on a budget.
     
@@ -114,7 +115,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 * **<mark>Community and Support</mark>**<mark>:</mark> DigitalOcean has an active community and offers various support options, including a knowledge base and community forums.
     
 
-> ### ***<mark>CONS:</mark>***
+> ***<mark>CONS:</mark>***
 
 * While DigitalOcean excels in providing basic cloud services, **<mark>it may not have as extensive a service catalog as some other cloud providers like AWS or Azure.</mark>**
     
@@ -131,11 +132,11 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 ![](https://miro.medium.com/v2/resize:fit:1050/1*PhE0nyP1xqAEOXe-11A0vQ.png align="left")
 
-* Website may be <mark>up to </mark> **<mark>1GB</mark>** <mark> in size.</mark>
+* Website may be <mark>up to </mark> **<mark>1GB</mark>** <mark>in size.</mark>
     
 * Deployments **will timeout <mark>if they take longer than 10 minutes.</mark>**
     
-* *soft* bandwidth limit <mark> of </mark> **<mark>100 GB per month.</mark>**
+* *soft* bandwidth limit <mark>of </mark> **<mark>100 GB per month.</mark>**
     
 * *soft* limit of **<mark>10 builds per hour.</mark>** <mark>This limit does not apply if you build and publish your site with a custom </mark> **<mark>GitHub Actions workflow.</mark>**
     
@@ -150,7 +151,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 ![](https://miro.medium.com/v2/resize:fit:1050/1*-hEW3UtUm0bnCBTMzJAUHg.png align="left")
 
-### **FREE PLAN INCLUDES 👇**
+**FREE PLAN INCLUDES 👇**
 
 * **<mark>100GB/month</mark>** for bandwidth and storage.
     
@@ -161,7 +162,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 * Automatically **<mark>deploy on Git.</mark>**
     
 
-> ### ***<mark>PROS:</mark>***
+> ***<mark>PROS:</mark>***
 
 * It’s an excellent choice for **<mark>developers who want to quickly deploy their web applications without dealing with complex configurations.</mark>**
     
@@ -172,13 +173,14 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 * It **<mark>integrates seamlessly with popular version control systems</mark>** like GitHub and GitLab, making it **<mark>easy to set up continuous integration and deployment (CI/CD) pipelines.</mark>**
     
 
-> ### ***<mark>CONS:</mark>***
+> ***<mark>CONS:</mark>***
 
 * It may **<mark>not be suitable for projects</mark>** **<mark>requiring a wide range of cloud services</mark>** beyond web applications.
     
 * While the free tier is generous, costs can increase when scaling up for larger projects or high traffic websites. **<mark>Users should monitor their usage to avoid unexpected expenses.</mark>**
     
-* ### ***<mark>Render’s data center locations may not cover all geographical regions, potentially affecting performance for users in certain areas.</mark>***
+
+* ***<mark>**Render’s data center locations may not cover all geographical regions, potentially affecting performance for users in certain areas.</mark>****<mark>**</mark>*
     
 
 ---
@@ -189,11 +191,11 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 ### **7)** [**Vercel**](https://vercel.com/)
 
-***I love Vercel so much***. I can’t Tell you. Hosting on Vercel is so simple that a 10 year old Kid can also do it.\*
+***I love Vercel so much***. I can’t Tell you. Hosting on Vercel is so simple that a 10 year old Kid can also do it.
 
 ![](https://miro.medium.com/v2/resize:fit:1050/1*EW9KXszDBS8FAE4Br9EvAQ.png align="left")
 
-**Features of the free plan:**
+***Features of the FREE PLAN 👇***
 
 * **<mark>Improved website performance with Edge Network</mark>**<mark>.</mark>
     
@@ -224,7 +226,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 ![](https://miro.medium.com/v2/resize:fit:854/1*ayDwWNayHDcJ9cdWeVLdgw.png align="left")
 
-### **Features of the free plan:**
+Features of the FREE PLAN 👇
 
 * **<mark>Automatically build</mark>** from Git.
     
@@ -255,7 +257,7 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 
 <mark>I can say </mark> **<mark>AWS is the Biggest and best Web Services Provider Currently ( With Google Cloud Platform and Azure )</mark>**<mark>.</mark> They Provide Basic to industry-level required Features to their users. I have been using for 2 years and I love it.
 
-> ### <mark>PROS:</mark>
+> **<mark>PROS:</mark>**
 
 * **<mark>AWS offers an extensive array of cloud services,</mark>** including computing, storage, databases, machine learning, analytics, and more. This breadth of services caters to a wide range of use cases.
     
@@ -268,10 +270,11 @@ DigitalOcean is an excellent choice for developers and small to medium-sized pro
 * **<mark>Offers a wide range of security features and compliance certifications</mark>**<mark>,</mark> making it a **<mark>trusted choice for businesses</mark>** with stringent security requirements.
     
 
-> ### **<mark>CONS:</mark>**
+> **<mark>CONS:</mark>**
 
 * **<mark>Complexity</mark>**
     
+
 * While AWS provides cost management tools, the **<mark>cost structure can be complex, and users must actively monitor their usage to avoid unexpected expenses.</mark>**
     
 * **<mark>Some users find AWS pricing to be higher than other cloud providers, especially if not managed efficiently.</mark>**

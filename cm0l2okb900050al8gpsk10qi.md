@@ -4,6 +4,7 @@ datePublished: Mon Sep 02 2024 14:05:05 GMT+0000 (Coordinated Universal Time)
 cuid: cm0l2okb900050al8gpsk10qi
 slug: 10-must-have-vs-code-extensions-for-developers-part-ii
 canonical: https://medium.com/gitconnected/10-must-have-vs-code-extensions-for-developers-part-ii-9f64a78ec1b8
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725287200460/d75fe318-b729-4ee7-ac23-f49c2a834be5.png
 tags: extensions, programming-ciovqvfcb008mb253jrczo9ye, vscode-extensions, vscode-tips, coding-make-easy
 
 ---
